@@ -1,0 +1,5 @@
+# 1 "/home/raphael/espressif/tools/esp32-sdk/esp-idf/components/expat/expat/expat/lib/xmltok_ns.c"
+# 1 "/home/raphael/rtone/lcd/build/expat//"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 1 "/home/raphael/espressif/tools/esp32-sdk/esp-idf/components/expat/expat/expat/lib/xmltok_ns.c"

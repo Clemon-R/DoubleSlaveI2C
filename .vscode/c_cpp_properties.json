@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/raphael/espressif/tools/esp32-sdk/esp-idf/**",
+                "/home/raphael/espressif/tools/esp32-sdk/esp-idf/components/esp32/include"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang"
+        }
+    ],
+    "version": 4
+}
